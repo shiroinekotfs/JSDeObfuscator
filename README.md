@@ -1,7 +1,7 @@
 # Javascript Deobfuscator
 
-[![CodeQL](https://github.com/takinekotfs/JSDeObfuscator/actions/workflows/codeql.yml/badge.svg)](https://github.com/takinekotfs/JSDeObfuscator/actions/workflows/codeql.yml)
-[![Deploy static content to Pages](https://github.com/takinekotfs/JSDeObfuscator/actions/workflows/static.yml/badge.svg)](https://github.com/takinekotfs/JSDeObfuscator/actions/workflows/static.yml)
+[![CodeQL](https://github.com/shiroinekotfs/JSDeObfuscator/actions/workflows/codeql.yml/badge.svg)](https://github.com/shiroinekotfs/JSDeObfuscator/actions/workflows/codeql.yml)
+[![Deploy static content to Pages](https://github.com/shiroinekotfs/JSDeObfuscator/actions/workflows/static.yml/badge.svg)](https://github.com/shiroinekotfs/JSDeObfuscator/actions/workflows/static.yml)
 
 ## Getting started
 
